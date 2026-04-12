@@ -42,7 +42,7 @@ $$A = \begin{pmatrix} 1 & 2 \\ 0 & 2 \end{pmatrix}, \quad B = \begin{pmatrix} 2 
 
 Dado el siguiente sistema de ecuaciones lineales para los distintos valores reales del parámetro **a**:
 
-$$\begin{cases} x + y - z = 1 \\ 3x + ay + az = 5 \\ 4x + ay \phantom{{}+az} = 5 \end{cases}$$
+$$\begin{cases} x + y - z = 1 \\ 3x + ay + az = 5 \\ 4x + ay = 5 \end{cases}$$
 
 - Implementar en **R** y en **Python** la discusión y resolución del sistema.
 - Razonar e **interpretar geométricamente** los resultados.
